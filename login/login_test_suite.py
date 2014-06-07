@@ -11,9 +11,8 @@ __author__ = 'Dorota Filiczuk'
 
 def suite():
     return unittest.TestSuite((
-        unittest.makeSuite(login_check_test.login_check_test),
-
-    ))
+        unittest.makeSuite(login_check_test.LoginCheckTest)
+		))
 
 
 if __name__ == "__main__":
