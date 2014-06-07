@@ -6,7 +6,7 @@ import sys
 import login_check_test
 
 
-__author__ = 'Dorota Filiczuk'
+__author__ = 'Dorota Filipczuk'
 
 
 def suite():
